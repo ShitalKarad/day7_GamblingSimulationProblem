@@ -7,7 +7,6 @@ public class GamblingSimulationProblem {
         System.out.println("Welcome in Gambling Simulation Problem");
         int stake = 100;
         int bet = 1;
-        int count =0;
         Random random = new Random();
        int num = random.nextInt(2) + 0;
 
